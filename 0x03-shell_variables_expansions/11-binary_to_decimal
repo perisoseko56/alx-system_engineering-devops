@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((#BINARY)o)
+echo $((#BINARY)0)
